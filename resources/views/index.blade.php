@@ -322,7 +322,7 @@
         <div class="col-md-6">
           <article class="video-item">
             <figure>
-              <a href="assets/images/video_ganj" class="play"><img src="assets/images/Гандж.jpg"></a>
+              <a href="assets/images/video_ganj.mp4" class="play"><img src="assets/images/Гандж.jpg"></a>
             </figure>
           </article>
         </div>
