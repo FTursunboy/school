@@ -22,7 +22,7 @@
 
 <body>
 
-   
+
   <!--header-->
   <header class="main-header clearfix" role="header">
   <div class="logo">
@@ -92,7 +92,7 @@
               </div>
               <div class="content-hide">
                 <p>NOU Private School Gymnasium "Ganj", viding high-quality education for 18 years. It is a renowned educational institution dedicated to fostering intellectual growth and academic excellence among its students.
-                  The experienced and passionate teaching staff at "Ganj" ensures that every student receives individual attention to achieve their full potential. 
+                  The experienced and passionate teaching staff at "Ganj" ensures that every student receives individual attention to achieve their full potential.
                   "Ganj" Gymnasium also prioritizes language learning, preparing students to succeed in an increasingly globalized world. With its strong commitment to excellence and 18 years of successful operation, the school continues to inspire and empower the next generation of leaders.</p>
                 <div class="scroll-to-section"><a href="#section2">More Info.</a></div>
             </div>
@@ -197,7 +197,7 @@
             <h2>Our achievments</h2>
           </div>
         </div>
-        
+
         <div class="owl-carousel owl-theme">
           <div class="item">
             <img src="assets/images/Ismoiljonov Nazirjon.JPG" alt="Course#1">
@@ -208,7 +208,7 @@
           </div>
 
           <div class="item">
-            <img src="assets/images/Azizova Shahlokhon.jpg" alt="Course #2"> 
+            <img src="assets/images/Azizova Shahlokhon.jpg" alt="Course #2">
             <div class="down-content">
               <h4>Azizova Shahlokhon</h4>
               <p>Azizova Shahlokhon, a talented graduate of NOU Private School Gymnasium "Ganj," has achieved outstanding academic success. She was awarded prestigious grants from two esteemed universities in the United States: Pratt Institute in New York City and Arizona University.
@@ -226,7 +226,7 @@
           </div>
 
           <div class="item">
-            <img src="assets/images/Nabieva Mehrangez.jpg" alt="Course #3"> /*фотка 
+            <img src="assets/images/Nabieva Mehrangez.jpg" alt="Course #3"> /*фотка
             <div class="down-content">
               <h4>Nabieva Mehrangez</h4>
               <p>Nabiyeva Mehrangez, a distinguished graduate of NOU Private School Gymnasium "Ganj," is currently a student at Avicenna Tajik State Medical University in Dushanbe. In 2021, she achieved remarkable success by winning the prestigious "Furugi Subhi Donoi Kitob Ast" competition, showcasing her deep knowledge and love for literature.
@@ -305,7 +305,7 @@
       </div>
     </div>
   </section>
-  
+
 
   <section class="section video" data-section="section5">
     <div class="container">
@@ -315,14 +315,14 @@
             <span>our presentation is for you</span>
             <h4>Watch the video to learn more <em>about Ganj School</em></h4>
             <br><br>NOU Private School Gymnasium "Ganj", viding high-quality education for 18 years. It is a renowned educational institution dedicated to fostering intellectual growth and academic excellence among its students.
-            The experienced and passionate teaching staff at "Ganj" ensures that every student receives individual attention to achieve their full potential. 
+            The experienced and passionate teaching staff at "Ganj" ensures that every student receives individual attention to achieve their full potential.
             "Ganj" Gymnasium also prioritizes language learning, preparing students to succeed in an increasingly globalized world. With its strong commitment to excellence and 18 years of successful operation, the school continues to inspire and empower the next generation of leaders.</p>
           </div>
         </div>
         <div class="col-md-6">
           <article class="video-item">
             <figure>
-              <a href="assets/images/04.1-1сентябр-2024.mp4" class="play"><img src="assets/images/Гандж.jpg"></a>
+              <a href="assets/images/video_ganj" class="play"><img src="assets/images/Гандж.jpg"></a>
             </figure>
           </article>
         </div>
@@ -339,7 +339,7 @@
           </div>
         </div>
         <div class="col-md-6">
-                            
+
           <form id="contact" action="" method="post">
             <div class="row">
               <div class="col-md-6">
